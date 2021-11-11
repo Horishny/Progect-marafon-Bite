@@ -100,13 +100,14 @@ body{
 .order-button:first-of-type{
     background: #FA4A0C;
     border: 1px solid  #FA4A0C;
-    width: 142px;
+    width: 173px;
     margin-right: 16px;
 }
 .order-button:last-of-type{
     background: none;
     border: 1px solid white;
     width: 173px;
+    margin-right: 16px;
 }
 .conteiner-mobile{
     margin: auto 130px;
